@@ -1,4 +1,4 @@
-package link;
+package co.gofun.java.link;
 
 /**
  * 单链表节点

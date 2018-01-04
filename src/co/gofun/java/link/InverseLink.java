@@ -1,4 +1,4 @@
-package link;
+package co.gofun.java.link;
 
 /**
  * 把单链表逆转
@@ -24,14 +24,14 @@ public class InverseLink {
      */
     public static void inverse(SinglyNode mLink) {
 
-//        SinglyNode mLink = link;
+//        SinglyNode mLink = co.gofun.java.link;
 
         /**
          * 新链表
          */
         SinglyNode newLink = null;
         /**
-         * link 剩下的链表
+         * co.gofun.java.link 剩下的链表
          */
         SinglyNode leftLink;
 

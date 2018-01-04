@@ -1,4 +1,4 @@
-package link;
+package co.gofun.java.link;
 
 
 import co.gofun.java.Util;
@@ -13,7 +13,7 @@ public class LoopLink {
     public static void main(String[] args) {
 
         SinglyNode link = CreateLink.create1();
-//        CreateLink.printLink(link);
+//        CreateLink.printLink(co.gofun.java.link);
 
 
         System.out.println(getLoopNode(link).node);

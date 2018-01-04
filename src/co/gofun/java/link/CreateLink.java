@@ -1,4 +1,4 @@
-package link;
+package co.gofun.java.link;
 
 /**
  * Created by Ador on 2017/11/18.
@@ -67,13 +67,13 @@ public class CreateLink {
 
         SinglyNode node = link;
 
-        System.out.println("link start...");
+        System.out.println("co.gofun.java.link start...");
         while (node != null) {
             System.out.print(node.node + " ");
             node = node.next;
         }
         System.out.println("");
-        System.out.println("link end.");
+        System.out.println("co.gofun.java.link end.");
 
     }
 
