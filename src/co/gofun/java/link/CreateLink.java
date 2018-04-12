@@ -17,6 +17,33 @@ public class CreateLink {
 
     }
 
+    public static SinglyNode create(int offset, int count) {
+        return create(0, offset, count, false);
+    }
+
+    /**
+     * @param start  开始位置
+     * @param offset 间隔
+     * @param count  个数
+     * @param upper  true :逐渐增大
+     * @return
+     */
+    public static SinglyNode create(int start, int offset, int count, boolean upper) {
+        SinglyNode link = null;
+        for (int i = 0; i < count; i++) {
+            SinglyNode node = new SinglyNode();
+            node.node = start + offset * i + "";
+            node.next = link;
+            link = node;
+        }
+
+        if (upper) {
+            InverseLink.inverse(link);
+        }
+
+        return link;
+    }
+
 
     public static SinglyNode create() {
         SinglyNode link = null;
@@ -32,6 +59,7 @@ public class CreateLink {
 
     /**
      * 123456(4为环节点)
+     *
      * @return
      */
     public static SinglyNode create1() {
