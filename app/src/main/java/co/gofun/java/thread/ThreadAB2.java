@@ -17,13 +17,11 @@ public class ThreadAB2 {
                         if (!flag) {
                             flag = true;
                             LOCK.notify();// 在这里虽然唤醒了另一个线程b，但锁并没有释放
-                            if (i < 100) {
-                                try {
-                                    LOCK.wait();// 在wait后的瞬间线程b得到锁
-                                } catch (InterruptedException e) {
-                                    e.printStackTrace();
-                                }
-                            }
+                            /*try {
+                                LOCK.wait();// 在wait后的瞬间线程b得到锁
+                            } catch (InterruptedException e) {
+                                e.printStackTrace();
+                            }*/
                         }
                     }
                 }
@@ -38,13 +36,11 @@ public class ThreadAB2 {
                         if (flag) {
                             flag = false;
                             LOCK.notify();
-                            if (i < 100) {
-                                try {
-                                    LOCK.wait();
-                                } catch (InterruptedException e) {
-                                    e.printStackTrace();
-                                }
-                            }
+                            /*try {
+                                LOCK.wait();
+                            } catch (InterruptedException e) {
+                                e.printStackTrace();
+                            }*/
                         }
                     }
                 }
