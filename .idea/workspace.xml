@@ -2,63 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c68757c8-6450-4747-8502-92410633855d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ArithmeticZen.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ArithmeticZen.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ArithmeticZen/Hello.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ArithmeticZen/co/gofun/java/Josephus.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ArithmeticZen/co/gofun/java/Sort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ArithmeticZen/co/gofun/java/Util.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ArithmeticZen/co/gofun/java/link/CreateLink.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ArithmeticZen/co/gofun/java/link/DoublyNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ArithmeticZen/co/gofun/java/link/InverseLink.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ArithmeticZen/co/gofun/java/link/LoopLink.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ArithmeticZen/co/gofun/java/link/SinglyNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ArithmeticZen/co/gofun/java/link/test" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ArithmeticZen/co/gofun/java/thread/ThreadAB1$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ArithmeticZen/co/gofun/java/thread/ThreadAB1$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ArithmeticZen/co/gofun/java/thread/ThreadAB1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ArithmeticZen/co/gofun/java/thread/ThreadAB2$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ArithmeticZen/co/gofun/java/thread/ThreadAB2$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ArithmeticZen/co/gofun/java/thread/ThreadAB2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ArithmeticZen/co/gofun/java/thread/TwoThreadAlternate$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ArithmeticZen/co/gofun/java/thread/TwoThreadAlternate$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ArithmeticZen/co/gofun/java/thread/TwoThreadAlternate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ArithmeticZen/co/gofun/java/tree/ArrayTree$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ArithmeticZen/co/gofun/java/tree/ArrayTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ArithmeticZen/co/gofun/java/tree/CreateTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ArithmeticZen/co/gofun/java/tree/DepthFirstTraversal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ArithmeticZen/co/gofun/java/tree/LinkTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ArithmeticZen/co/gofun/java/tree/SetTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ArithmeticZen/co/gofun/java/tree/TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ArithmeticZen/co/gofun/java/tree/doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Hello.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/co/gofun/java/Josephus.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/co/gofun/java/Sort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/co/gofun/java/Util.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/co/gofun/java/link/CreateLink.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/co/gofun/java/link/DoublyNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/co/gofun/java/link/InverseLink.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/co/gofun/java/link/LoopLink.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/co/gofun/java/link/MergeLink.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/co/gofun/java/link/SinglyNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/co/gofun/java/link/test" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/co/gofun/java/sort/LinkSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/co/gofun/java/sort/MaoPaoSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/co/gofun/java/thread/ProducerConsumer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/co/gofun/java/thread/ThreadAB1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/co/gofun/java/thread/ThreadAB2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/co/gofun/java/thread/TwoThreadAlternate.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/co/gofun/java/tree/ArrayTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/co/gofun/java/tree/CreateTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/co/gofun/java/tree/DepthFirstTraversal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/co/gofun/java/tree/LinkTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/co/gofun/java/tree/SetTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/co/gofun/java/tree/TreeNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/co/gofun/java/tree/doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -96,11 +46,15 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/co/gofun/java/thread/ThreadAB2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="522">
-              <caret line="31" selection-start-line="31" selection-end-line="31" />
+            <state relative-caret-position="90">
+              <caret line="11" column="19" lean-forward="true" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+              <folding>
+                <element signature="e#269#1035#0" expanded="true" />
+                <element signature="e#1034#1035#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -126,35 +80,35 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/co/gofun/java/link/CreateLink.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-504">
+            <state relative-caret-position="-180">
               <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/co/gofun/java/link/DoublyNode.java">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/co/gofun/java/sort/LinkSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="20" selection-start-column="20" selection-end-column="20" />
+            <state relative-caret-position="-166">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/co/gofun/java/link/InverseLink.java">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/co/gofun/java/sort/MaoPaoSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-486">
-              <caret column="26" selection-start-column="26" selection-end-column="26" />
+            <state relative-caret-position="72">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/co/gofun/java/link/LoopLink.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/co/gofun/java/sort/QuickSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-562">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            <state relative-caret-position="-972">
+              <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -178,6 +132,13 @@
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -209,17 +170,8 @@
         <option value="$PROJECT_DIR$/app/src/main/java/co/gofun/java/link/DoublyNode.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/co/gofun/java/link/InverseLink.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/co/gofun/java/thread/TwoThreadAlternate.java" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/gradle.xml" />
-        <option value="$PROJECT_DIR$/.idea/codeStyles/Project.xml" />
-        <option value="$PROJECT_DIR$/.idea/runConfigurations.xml" />
-        <option value="$PROJECT_DIR$/app/app.iml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/co/gofun/java/sort/aasd.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/co/gofun/java/sort/QuickSort.java" />
       </list>
     </option>
   </component>
@@ -326,6 +278,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android.project.structure.last.selected" value="SDK Location" />
     <property name="android.project.structure.proportion" value="0.15" />
     <property name="android.sdk.path" value="$USER_HOME$/Android/sdk" />
@@ -354,7 +307,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ThreadAB2 (1)">
+  <component name="RunManager" selected="Application.QuickSort">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -441,12 +394,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadAB2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="co.gofun.java.thread.ThreadAB2" />
+    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="co.gofun.java.sort.QuickSort" />
       <module name="app" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="co.gofun.java.thread.*" />
+          <option name="PATTERN" value="co.gofun.java.sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -454,12 +407,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadAB2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.gofun.arithmeticzen.java.thread.ThreadAB2" />
+    <configuration name="ThreadAB2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="co.gofun.java.thread.ThreadAB2" />
       <module name="app" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.gofun.arithmeticzen.java.thread.*" />
+          <option name="PATTERN" value="co.gofun.java.thread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -482,11 +435,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.QuickSort" />
         <item itemvalue="Application.ThreadAB2 (1)" />
         <item itemvalue="Application.TwoThreadAlternate" />
         <item itemvalue="Application.Josephus" />
         <item itemvalue="Application.LoopLink" />
-        <item itemvalue="Application.ThreadAB2" />
       </list>
     </recent_temporary>
   </component>
@@ -505,9 +458,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.32975295" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.2878625" />
       <window_info id="Structure" order="2" side_tool="true" />
       <window_info id="Build Variants" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
@@ -516,7 +470,7 @@
       <window_info id="Capture Tool" order="7" />
       <window_info id="Favorites" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="bottom" id="Run" order="0" visible="true" weight="0.09447005" />
+      <window_info anchor="bottom" id="Run" order="0" visible="true" weight="0.18548387" />
       <window_info anchor="bottom" id="Logcat" order="1" />
       <window_info anchor="bottom" id="TODO" order="2" />
       <window_info anchor="bottom" id="Android Profiler" order="3" show_stripe_button="false" />
@@ -678,29 +632,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/co/gofun/java/sort/LinkSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="15" selection-start-column="15" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/co/gofun/java/sort/MaoPaoSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="15" selection-start-column="15" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/co/gofun/java/link/test">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/co/gofun/java/link/CreateLink.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-504">
-          <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/co/gofun/java/link/DoublyNode.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -764,8 +697,40 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/co/gofun/java/thread/ThreadAB2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="522">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        <state relative-caret-position="90">
+          <caret line="11" column="19" lean-forward="true" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+          <folding>
+            <element signature="e#269#1035#0" expanded="true" />
+            <element signature="e#1034#1035#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/co/gofun/java/link/CreateLink.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-180">
+          <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/co/gofun/java/sort/LinkSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-166">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/co/gofun/java/sort/MaoPaoSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/co/gofun/java/sort/QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-972">
+          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
         </state>
       </provider>
     </entry>
